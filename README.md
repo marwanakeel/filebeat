@@ -1,3 +1,8 @@
+On Windows
+Start-Service filebeat
+Stop-Service filebeat
+Get-Service filebeat
+
 ```
 ###################### Filebeat Configuration Example #########################
 
